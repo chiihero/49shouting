@@ -32,7 +32,7 @@ docker run \
   -e enable_bilibili=true \
   -e DedeUserID=41*****1073  \
   -e SESSDATA=05*********333*b1 \
-  -e bili_jct=b6*********4a581 \
+  -e bili_jct=b6*********4a581 \Cancel Changes
   auto-sign-machine:latest
 ```
 
@@ -171,5 +171,5 @@ docker run \
 #增加 --tasks taskName1,taskName2,taskName3
 ```
 
-### GitHub Actions 运行问题
+### GitHub Actions 
 暂未处理GitHub Actions支持
